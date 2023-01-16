@@ -1,0 +1,1 @@
+This is a restaurant landing page made with html and css which is fully responsive. 
